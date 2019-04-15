@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoSlideshowApp</string>
+
+    <!--button_status-->
+    <string name="button_status_play">Play</string>
+    <string name="button_status_pause">Pause</string>
+</resources>
